@@ -1,2 +1,2 @@
 print("kk")
-print("hoho")
+print("hoh")
